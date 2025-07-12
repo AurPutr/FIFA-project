@@ -1,1 +1,3 @@
-# My-portfolio-projects
+# The goal of this project was to build a competitive starting lineup for a newly founded football club named "ultralearnManral", using data-driven decision-making. A total of 14–16 players were to be selected from a large dataset of football players based on their skills, potential, and cost efficiency.
+# The project was implemented using: Pandas for data manipulation and analysis; Matplotlib & Seaborn for visualization; Custom logic to categorize players and calculate weighted performance metrics.
+# A full squad of high-performing, high-potential, and cost-effective players was successfully identified using a balanced, data-informed scoring system.
