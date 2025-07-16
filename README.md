@@ -1,7 +1,7 @@
-# Data-Driven Football Team Selection
+# Data-Driven Football Team Selection - **"MyBestTeam"**
 
 ## Description  
-The goal of this project was to build a competitive starting lineup for a newly founded football club named **"ultralearnManral"**, using data-driven decision-making.  
+The goal of this project was to build a competitive starting lineup for a newly founded football club named **"MyBestTeam"**, using data-driven decision-making.  
 A total of **14–16 players** were selected from a dataset of professional football players based on three key factors:  
 **skills**, **potential**, and **cost efficiency**.
 
