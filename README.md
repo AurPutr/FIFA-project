@@ -1,4 +1,4 @@
-# Data-Driven Football Team Selection – "ultralearnManral"
+# Data-Driven Football Team Selection
 
 ## Description  
 The goal of this project was to build a competitive starting lineup for a newly founded football club named **"ultralearnManral"**, using data-driven decision-making.  
