@@ -50,11 +50,11 @@ After installing dependencies and placing the dataset in the correct path, run:
 ```
 
 The script will output:
-  Top 2 Goalkeepers
+  **Top 2 Goalkeepers
   Top 5 Defenders
   Top 5 Midfielders
   Top 4 Attackers
-  (= 16 total players)
+  (= 16 total players)**
 
 It will also generate several comparison graphs per position to help visualize:
 Player final scores
